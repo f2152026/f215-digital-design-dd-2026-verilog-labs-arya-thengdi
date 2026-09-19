@@ -12,6 +12,7 @@ module tb;
   integer i;
 
   // Device Under Test
+  //.
   alu DUT (
     .a      (t_a),
     .b      (t_b),
