@@ -5,6 +5,7 @@
 // drives them with the SAME fast-toggling stimulus, so you can compare all
 // three waveforms in one view and see directly which implementation(s)
 // respond correctly to inputs that change faster than the delay.
+//.
 
 module tb;
 
